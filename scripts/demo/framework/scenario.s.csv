@@ -7,7 +7,7 @@
 ,"verifyTotal","1650"
 ,"logout"
 
-"Test login error message","[Documentation]","Checks Invalid login message"
+"Test login error message 3","[Documentation]","Checks Invalid login message"
 ,"login","test","bad password"
 ,"verifyNotLoggedIn"
 ,"verifyErrorMessage","'Invalid username or password'"
