@@ -1,0 +1,6 @@
+function stopStatusTimer(id) {
+	   var timer = statusTimer[id];
+       clearInterval(timer);
+       delete statusTimer[id];
+       running = running - 1;
+   }
